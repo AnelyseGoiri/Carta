@@ -80,8 +80,7 @@ main {
   box-shadow: 4px 4px 15px rgba(196, 174, 174, 0.836);
   text-align: center;
   line-height: 1.6;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  overflow: auto;
 }
 
 .assinatura {
