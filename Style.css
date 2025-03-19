@@ -72,7 +72,7 @@ main {
 
 /* Estilização */
 .carta {
-  width: 80%;
+  width: 60%;
   max-width: 600px;
   padding: 20px;
   background-color: #fff;
@@ -81,7 +81,6 @@ main {
   box-shadow: 4px 4px 15px rgba(196, 174, 174, 0.836);
   text-align: center;
   line-height: 1.6;
-  overflow: auto;
 }
 
 .assinatura {
